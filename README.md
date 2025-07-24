@@ -32,13 +32,17 @@
 
 
 ---
+<p align="center">
+  <span>
+    <img src="https://komarev.com/ghpvc/?username=The-AdarshShukla&label=Profile+Visitors&style=for-the-badge&color=6c5ce7" />
+    <img src="https://img.shields.io/github/followers/The-AdarshShukla?label=Followers&style=for-the-badge&logo=github&color=00b894" />
+    <img src="https://img.shields.io/github/stars/The-AdarshShukla?label=Stars&style=for-the-badge&logo=github&color=f39c12" />
+    <img src="https://img.shields.io/badge/Contributions-Active-blueviolet?style=for-the-badge&logo=github" />
+  </span>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=The-AdarshShukla&label=Profile+Views&color=0e75b6&style=flat" alt="The-AdarshShukla" /> 
-  <a href="https://github.com/The-AdarshShukla?tab=followers"><img src="https://img.shields.io/github/followers/The-AdarshShukla?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://github.com/The-AdarshShukla"><img src="https://img.shields.io/github/stars/The-AdarshShukla?label=Stars&style=social" alt="GitHub Stars"></a>
-  <a href="https://wakatime.com/@The-AdarshShukla"><img src="https://wakatime.com/badge/github/The-AdarshShukla/The-AdarshShukla.svg?style=social" alt="Wakatime Stats"></a>
-</div>
+
+
 
 
 ---
@@ -68,11 +72,17 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,android,firebase,py,html,css,js,git,github,androidstudio,vscode,figma,linux" alt="Tech Stack" />
+<div align="center" style="background: linear-gradient(to right, #1f1f1f, #2a2a2a); padding: 1rem 1.5rem; border-radius: 12px;">
+  <h2 style="color: #ffffff; font-family: sans-serif; margin-bottom: 1rem;">
+    🚀 Tech Stack
+  </h2>
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,firebase,py,html,css,js,git,github,androidstudio,vscode,figma,linux" alt="Tech Stack" />
+  </a>
 </div>
+
+
 
 ---
 
@@ -110,13 +120,13 @@
   <table>
     <tr>
       <td width="33%">
-        <a href="https://github.com/The-AdarshShukla/blind-assistant">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-AdarshShukla&repo=Smart-Adarsh_App&theme=dark" alt="Blind Assistant App">
+        <a href="https://github.com/The-AdarshShukla/Smart-Adarsh-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-AdarshShukla&repo=Smart-Adarsh-App&theme=dark" alt="Blind Assistant App">
         </a>
       </td>
       <td width="33%">
-        <a href="https://github.com/The-AdarshShukla/poetry-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-AdarshShukla&repo=mobileapp-app&theme=dark" alt="Poetry Hub">
+        <a href="https://github.com/The-AdarshShukla/mobileapp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-AdarshShukla&repo=mobileapp&theme=dark" alt="Poetry Hub">
         </a>
       </td>
       <td width="33%">
