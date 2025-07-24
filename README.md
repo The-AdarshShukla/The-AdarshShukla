@@ -1,117 +1,83 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Empowering Through Technology | 💻 Full Stack Developer | 📚 Lifelong Learner</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Adarsh+Shukla;Full+Stack+Developer;Poet+%26+Tech+Writer;Open+Source+Contributor" alt="Typing SVG" />
+</h1>
 
-<!-- Profile Views & Visitor Badge -->
+<h3 align="center">Building digital solutions with code and creativity</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"/>
+  <a href="https://adarshshukla2005.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/adarsh-shukla-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/adarshpoet">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:adarshpoetry@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
-
-<!-- Social Icons -->
-<p align="center">
-  <a href="https://github.com/yourusername" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
-</p>
-
----
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **[Your Project Name or Domain Area]**
-- 🌱 I’m currently learning **[React / Kotlin / Machine Learning / etc.]**
-- 💬 Ask me about **Java, Python, Web Development, AI**
-- 📫 How to reach me: **[youremail@example.com]**
-- ⚡ Fun fact: *I write code to make life easier, and poetry to make it meaningful.*
+I'm a passionate Full Stack Developer with expertise in Android and Web development. When I'm not coding, you'll find me writing Hindi poetry or tech articles. My mission is to build technology that makes a difference, like my Blind Assist AI project for visually impaired users.
 
----
+- 🔭 Currently working on: **Voice-based Navigation Android App**
+- 🌱 Currently learning: **Kotlin Multiplatform, Jetpack Compose**
+- 👯 Looking to collaborate on: **Open source projects with social impact**
+- 💬 Ask me about: **Android Development, Firebase, or Hindi Poetry**
+- ⚡ Fun fact: I write poems about programming concepts
 
-## 🛠️ Languages and Tools:
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,androidstudio,figma" />
-</p>
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
----
+### Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🔥 GitHub Stats
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="200"/>
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="200"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarshshukla2005&theme=github_dark" width="90%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshshukla2005&show_icons=true&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshshukla2005&theme=radical&hide_border=true" width="45%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshshukla2005&layout=compact&theme=radical&hide_border=true" width="45%"/>
+</div>
 
----
+## 🚀 Featured Projects
 
-## 🏆 GitHub Trophies
+### Blind Assist AI
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=adarshshukla2005&repo=blind-assist-ai&theme=radical)](https://github.com/adarshshukla2005/blind-assist-ai)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+Android app using OpenCV and ML Kit for voice-based object detection and navigation assistance for visually impaired users.
 
----
+### Poetry App
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=adarshshukla2005&repo=hindi-poetry-app&theme=radical)](https://github.com/adarshshukla2005/hindi-poetry-app)
 
-## 📂 Projects
+Kotlin-based Android application for Hindi poetry enthusiasts featuring Firebase backend.
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🧠 **AI Voice Assistant** | Python, OpenCV, Speech Recognition | Smart assistant with object detection |
-| 🌐 **Personal Portfolio** | React, TailwindCSS, GSAP | Responsive, animated developer portfolio |
-| 📊 **QuizMaster Pro** | HTML, CSS, JS | Dynamic quiz app with analytics and leaderboard |
-| 📱 **Poetry App** | Kotlin / Java (Android) | Showcase Hindi poetry & story collections |
+## 🌱 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshshukla2005&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 
----
+## 📝 Latest Blog Posts
 
-## 📘 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Top 10 GitHub Profile Tips](https://yourblog.com/post1)
-- [How I Built My Android App from Scratch](https://yourblog.com/post2)
-- [The Power of Java + XML in App Design](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Connect with Me
+- [Building Accessible Android Apps](https://example.com)
+- [From Poetry to Programming](https://example.com)
+- [GitHub Profile README Guide](https://example.com)
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=adarshshukla2005&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/adarshshukla2005?style=social" alt="GitHub Followers"/>
 </p>
-
----
-
-## 🧠 Quotes That Drive Me
-
-> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
-
-> "The best way to predict the future is to invent it." – *Alan Kay*
-
----
-
-## 🐍 Latest Activity (Optional with GitHub Actions)
-
-<!--START_SECTION:activity-->
-1. 🔥 Pushed changes to [yourusername/quizmaster-pro](https://github.com/yourusername/quizmaster-pro)
-2. 🛠️ Opened issue [#5](https://github.com/yourusername/my-portfolio/issues/5)
-3. 💬 Commented on [#42](https://github.com/facebook/react/issues/42)
-<!--END_SECTION:activity-->
-
----
-
-## 📅 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
-
-> Crafted with ❤️ by [Your Name]
