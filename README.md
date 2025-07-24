@@ -1,94 +1,117 @@
-<!-- Profile README for GitHub - Advanced and Professional -->
-
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Empowering Ideas Through Code | Developer | Tech Enthusiast</h3>
+<h3 align="center">🚀 Empowering Through Technology | 💻 Full Stack Developer | 📚 Lifelong Learner</h3>
+
+<!-- Profile Views & Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"/>
+</p>
+
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://github.com/yourusername" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 I’m currently working on **[Your Project Name or Domain Area]**
+- 🌱 I’m currently learning **[React / Kotlin / Machine Learning / etc.]**
+- 💬 Ask me about **Java, Python, Web Development, AI**
+- 📫 How to reach me: **[youremail@example.com]**
+- ⚡ Fun fact: *I write code to make life easier, and poetry to make it meaningful.*
+
+---
+
+## 🛠️ Languages and Tools:
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Open+Source+Contributor;Tech+Lover;Creative+Thinker&center=true&width=500&height=50" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,androidstudio,figma" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-### 💫 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Your Learning Focus]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤝 I’m open to networking, mentorship, and collaborations
-- 💬 Ask me about **Web Development, JavaScript, Python, and Git**
-- 📫 Reach me at: **[your_email@example.com]**
-- ⚡ Fun fact: *I debug 99 problems, and the code ain't one!*
-
----
-
-### 🚀 Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,java,github,vscode,git,bash" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="streak" width="45%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="200"/>
 </p>
 
 ---
 
-### 🧠 Projects
+## 🏆 GitHub Trophies
 
-| Name | Description | Link |
-|------|-------------|------|
-| 🚀 Portfolio Website | Personal portfolio built using React & Tailwind | [Live Demo](https://your-portfolio-link.com) |
-| 📚 Blog Site | Fullstack blog with Markdown support | [GitHub](https://github.com/your-username/blog-site) |
-| 📊 Expense Tracker | MERN Stack expense management tool | [GitHub](https://github.com/your-username/expense-tracker) |
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" /></a>
-  <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-### 💡 Quote of the Day
+## 📂 Projects
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🧠 **AI Voice Assistant** | Python, OpenCV, Speech Recognition | Smart assistant with object detection |
+| 🌐 **Personal Portfolio** | React, TailwindCSS, GSAP | Responsive, animated developer portfolio |
+| 📊 **QuizMaster Pro** | HTML, CSS, JS | Dynamic quiz app with analytics and leaderboard |
+| 📱 **Poetry App** | Kotlin / Java (Android) | Showcase Hindi poetry & story collections |
 
 ---
 
-### ✍️ Blog Posts
+## 📘 Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Portfolio](https://dev.to/yourusername)
-- [Getting Started with Open Source](https://medium.com/@yourusername)
+- [Top 10 GitHub Profile Tips](https://yourblog.com/post1)
+- [How I Built My Android App from Scratch](https://yourblog.com/post2)
+- [The Power of Java + XML in App Design](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 🔥 Contribution Graph
+## 🤝 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark" />
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blueviolet&style=flat" alt="views" />
+## 🧠 Quotes That Drive Me
+
+> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+
+> "The best way to predict the future is to invent it." – *Alan Kay*
+
+---
+
+## 🐍 Latest Activity (Optional with GitHub Actions)
+
+<!--START_SECTION:activity-->
+1. 🔥 Pushed changes to [yourusername/quizmaster-pro](https://github.com/yourusername/quizmaster-pro)
+2. 🛠️ Opened issue [#5](https://github.com/yourusername/my-portfolio/issues/5)
+3. 💬 Commented on [#42](https://github.com/facebook/react/issues/42)
+<!--END_SECTION:activity-->
+
+---
+
+## 📅 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
 
-> 🎯 _“Stay focused, stay humble, stay coding.”_
-
+> Crafted with ❤️ by [Your Name]
