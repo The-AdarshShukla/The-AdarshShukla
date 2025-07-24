@@ -106,7 +106,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/The-AdarshShukla/The-AdarshShukla/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/adarshshukla2005/adarshshukla2005/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center"> 
