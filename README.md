@@ -4,9 +4,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshshukla2005&label=Profile+Views&color=0e75b6&style=flat" alt="adarshshukla2005" /> 
-  <a href="https://github.com/adarshshukla2005?tab=followers"><img src="https://img.shields.io/github/followers/adarshshukla2005?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://github.com/adarshshukla2005"><img src="https://img.shields.io/github/stars/adarshshukla2005?label=Stars&style=social" alt="GitHub Stars"></a>
+  <img src="https://komarev.com/ghpvc/?username=The-AdarshShukla&label=Profile+Views&color=0e75b6&style=flat" alt="The-AdarshShukla" /> 
+  <a href="https://github.com/The-AdarshShukla?tab=followers"><img src="https://img.shields.io/github/followers/The-AdarshShukla?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/The-AdarshShukla"><img src="https://img.shields.io/github/stars/The-AdarshShukla?label=Stars&style=social" alt="GitHub Stars"></a>
 </p>
 
 ---
@@ -40,12 +40,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshshukla2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshshukla2005&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=radical" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshshukla2005&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=The-AdarshShukla&theme=radical" />
 </div>
 
 ---
@@ -53,7 +53,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adarshshukla2005&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=The-AdarshShukla&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -62,26 +62,26 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Blind Assistant App](https://github.com/adarshshukla2005/blind-assistant) | AI-powered navigation for visually impaired | Kotlin, ML Kit, TTS |
-| [Poetry Hub](https://github.com/adarshshukla2005/poetry-app) | Platform for Hindi poetry enthusiasts | Firebase, Jetpack Compose |
-| [QuizMaster Pro](https://github.com/adarshshukla2005/quiz-app) | Advanced quiz application | Kotlin, Room DB |
-| [PDF Reader](https://github.com/adarshshukla2005/pdf-reader) | Custom PDF viewer with annotations | Android PDF Viewer API |
+| [Blind Assistant App](https://github.com/The-AdarshShukla/blind-assistant) | AI-powered navigation for visually impaired | Kotlin, ML Kit, TTS |
+| [Poetry Hub](https://github.com/The-AdarshShukla/poetry-app) | Platform for Hindi poetry enthusiasts | Firebase, Jetpack Compose |
+| [QuizMaster Pro](https://github.com/The-AdarshShukla/quiz-app) | Advanced quiz application | Kotlin, Room DB |
+| [PDF Reader](https://github.com/The-AdarshShukla/pdf-reader) | Custom PDF viewer with annotations | Android PDF Viewer API |
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=adarshshukla2005&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=The-AdarshShukla&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## ✍️ Writing Portfolio
 
-- [Hindi Poetry Collection](https://adarshshukla2005.github.io/poetry)
-- [Short Stories Repository](https://adarshshukla2005.github.io/stories)
-- [Technical Blog](https://adarshshukla2005.github.io/blog)
+- [Hindi Poetry Collection](https://The-AdarshShukla.github.io/poetry)
+- [Short Stories Repository](https://The-AdarshShukla.github.io/stories)
+- [Technical Blog](https://The-AdarshShukla.github.io/blog)
 
 ---
 
@@ -106,10 +106,10 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/adarshshukla2005/adarshshukla2005/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/The-AdarshShukla/The-AdarshShukla/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/adarshshukla2005/count.svg" />
+  <img src="https://profile-counter.glitch.me/The-AdarshShukla/count.svg" />
 </p>
