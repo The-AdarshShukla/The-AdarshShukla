@@ -1,149 +1,115 @@
-<!-- Banner or Greeting -->
 <h1 align="center">HI, I'm Adarsh Shukla</h1>
-<h3 align="center">🚀 A Passionate Developer | ✍️ Hindi Poet & Storyteller | 📱 Android Enthusiast | 🌐 Full Stack Explorer</h3>
+<h3 align="center">🚀 Android Developer | ✍️ Creative Writer | 🔥 Open Source Contributor</h3>
 
 ---
 
-<!-- GitHub Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshshukla2005&label=Profile+Views&color=blueviolet&style=flat-square" alt="adarshshukla2005" />
-  <img src="https://img.shields.io/github/stars/adarshshukla2005?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/adarshshukla2005?style=flat-square" />
-  <img src="https://img.shields.io/github/repos/adarshshukla2005?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=adarshshukla2005&label=Profile+Views&color=0e75b6&style=flat" alt="adarshshukla2005" /> 
+  <a href="https://github.com/adarshshukla2005?tab=followers"><img src="https://img.shields.io/github/followers/adarshshukla2005?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/adarshshukla2005"><img src="https://img.shields.io/github/stars/adarshshukla2005?label=Stars&style=social" alt="GitHub Stars"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🔥 Current Focus
 
-- 🔭 Currently building **Voice-Enabled Blind Assistant Android App**
-- 🌱 Learning **Kotlin, Firebase, AI integrations & Jetpack Compose**
-- 👨‍🎓 B.Tech CSE + Data Science | [Maharishi University, Noida](https://www.muit.in)
-- 💬 Ask me about **Android Development, Java, Firebase, and Writing**
-- 📫 Email: **adarshpoetry@gmail.com**
-- 📝 I love to code by day, and write poetry by night 🖋️
+- 🔭 Building **AI-powered Android Accessibility Tools**
+- 🌱 Mastering **Jetpack Compose & ML Kit**
+- 👯 Looking to collaborate on **Open Source Android Projects**
+- 💬 Ask me about **Kotlin, Firebase, or Hindi Poetry**
+- ⚡ Fun fact: **I write code by day and poetry by night**
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,html,css,js,react,nodejs,firebase,mongodb,mysql,tailwind,vscode,androidstudio,git,github,figma" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-## ✨ Featured Projects
-
-| Project | Technologies | Description |
-|--------|--------------|-------------|
-| 🔊 **Blind Navigation App** | Java, XML, ML Kit, OpenCV | AI-based assistant for visually impaired, with voice, object detection & vibration alerts |
-| 📱 **Poetry & Story App** | Kotlin, Firebase | Upload and read Hindi Poems, Stories & PDFs |
-| 📊 **QuizMaster Pro** | HTML, JS, LocalStorage | Advanced timed quiz with dynamic question sets & result analysis |
-| 🌐 **My Portfolio Website** | HTML, CSS, JS | Fully responsive personal portfolio site with animations |
-
----
-
-## 🧑‍🎨 Poetry & Writer's Corner
-
-> *"कुछ शब्दों में एहसास समा जाए, वही कविता है,  
-> और कुछ कोड में ज़िंदगी चल पड़े, वही प्रोग्राम है।"*  
-> – आदर्श शुक्ला
-
-🔸 [View My Hindi Poetry App](https://adarshshukla2005.github.io/poetry-app)  
-🔸 [Read Short Stories](https://adarshshukla2005.github.io/stories)  
-🔸 [Upload your PDF](https://adarshshukla2005.github.io/pdf-zone)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshshukla2005&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adarshshukla2005&theme=github-dark-blue&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshshukla2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshshukla2005&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshshukla2005&theme=radical" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshshukla2005&layout=compact&theme=radical&hide_border=true" width="50%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adarshshukla2005&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adarshshukla2005&theme=gruvbox&margin-w=10&no-frame=true&row=2&column=4" />
-</p>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Blind Assistant App](https://github.com/adarshshukla2005/blind-assistant) | AI-powered navigation for visually impaired | Kotlin, ML Kit, TTS |
+| [Poetry Hub](https://github.com/adarshshukla2005/poetry-app) | Platform for Hindi poetry enthusiasts | Firebase, Jetpack Compose |
+| [QuizMaster Pro](https://github.com/adarshshukla2005/quiz-app) | Advanced quiz application | Kotlin, Room DB |
+| [PDF Reader](https://github.com/adarshshukla2005/pdf-reader) | Custom PDF viewer with annotations | Android PDF Viewer API |
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshshukla2005&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=adarshshukla2005&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 📘 Latest Articles / Blog
+## ✍️ Writing Portfolio
 
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My Poetry App](https://yourblog.com/poetry-app)
-- [Firebase + Kotlin Authentication](https://yourblog.com/firebase-auth)
-- [Responsive Portfolio with HTML/CSS/JS](https://yourblog.com/portfolio)
-<!-- BLOG-POST-LIST:END -->
+- [Hindi Poetry Collection](https://adarshshukla2005.github.io/poetry)
+- [Short Stories Repository](https://adarshshukla2005.github.io/stories)
+- [Technical Blog](https://adarshshukla2005.github.io/blog)
 
 ---
 
-## 📬 Contact & Socials
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:adarshpoetry@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/adarsh-shukla-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:adarshpoetry@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/adarsh-shukla-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/adarshpoet"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://adarshshukla2005.github.io/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+  <a href="https://adarshshukla2005.github.io"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 </p>
 
 ---
 
-## 📅 Currently Working On
+## 🎯 2025 Goals
 
-- ✅ Object Detection using TensorFlow Lite
-- ✅ Integrating Text-to-Speech in Android
-- ✅ Real-time PDF Upload Feature
-- ✅ Poetry Web App (Progressive Web App version)
-
----
-
-## 💡 Quotes That Inspire Me
-
-> "First, solve the problem. Then, write the code." – *John Johnson*  
-> "If you can write poetry, you can write logic. Both demand expression." – *Adarsh*  
-> "Great apps are built when logic meets emotion." – *Unknown*
+- [ ] Publish an Android library
+- [ ] Reach 1k+ app downloads
+- [ ] Contribute to 5+ OSS projects
+- [ ] Complete Jetpack Compose mastery
 
 ---
 
-## 🎯 Goals for 2025
+<p align="center">
+  <img src="https://github.com/adarshshukla2005/adarshshukla2005/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
-- 🔗 Build a cross-platform Poetry & Story app  
-- 🌍 Collaborate with at least 3 open-source Android projects  
-- ✒️ Publish a short poetry book online  
-- 🚀 Start a YouTube channel focused on Kotlin & Firebase development
-
----
-
-## 🐍 Latest GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Published poetry app repo [adarshshukla2005/poetry-app](https://github.com/adarshshukla2005/poetry-app)
-2. 🛠️ Updated project README [quizmaster-pro](https://github.com/adarshshukla2005/quizmaster-pro)
-3. 🚀 Hosted portfolio at [adarshshukla2005.github.io](https://adarshshukla2005.github.io)
-<!--END_SECTION:activity-->
-
----
-
-## 🙌 Thanks for visiting!
-
-> _Crafted with ❤️ by Adarsh Shukla_  
-> _Empowering lives with code and words._
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/adarshshukla2005/count.svg" />
+</p>
