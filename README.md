@@ -195,15 +195,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-      <a href = "https://cdn-icons-png.flaticon.com/512/6422/6422202.png" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitadeb" height="30" width="40" /></a>     
-<td align="center" style="padding: 2px;">       
-      <a href ="https://linkedin.com/in/arpitadeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitadeb" height="30" width="40" /></a>    
-  <td align="center" style="padding: 2px;">   
-      <a href="https://stackoverflow.com/users/users/10008537/arpita-deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/10008537/arpita-deb" height="30" width="40" /></a>    
-      <a href="https://www.leetcode.com/arpitadeb1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpitadeb1990" height="30" width="40" /></a>    
-      <a href="https://t.me/The_Adarshshukla" target="_blank" style="margin-right: 10px;">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30" />
+      <a href = "https://twitter.com/@the_adarshshukl" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Adarsh shukla" height="30" width="40" /></a>                 
+     <a href="https://github.com/The-AdarshShukla" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Adarsh shukla GitHub" height="30" width="40" /></a>  
+      <a href="https://instagram.com/The_AdarshShukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Adarsh Shukla" height="30" width="40" /></a>  
+  <a href ="https://linkedin.com/in/theadarshshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adarsh shukla" height="30" width="40" /></a>
+    <a href="https://t.me/The_Adarshshukla" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Adarsh shukla" height="30" width="30" />
 </a>
+
 
 
 </p>
