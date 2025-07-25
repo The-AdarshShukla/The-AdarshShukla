@@ -203,10 +203,14 @@
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-      </a>
-    </td>
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
+         alt="GitHub" 
+         width="40" 
+         height="40"
+         style="border-radius: 50%;">
+  </a>
+</td>
     <td align="center" style="padding: 10px;">
       <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="androidstudio" width="40" height="40"/>
