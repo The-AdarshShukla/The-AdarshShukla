@@ -88,20 +88,37 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; padding: 1rem;">
+
+  <!-- GitHub Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=default&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
+         alt="GitHub Stats" 
+         width="350" 
+         style="max-width: 100%; border-radius: 10px;">
   </picture>
-  
+
+  <!-- Top Languages -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=default">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=dark" alt="Top Languages">
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=default">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=dark" 
+         alt="Top Languages" 
+         width="300" 
+         style="max-width: 100%; border-radius: 10px;">
   </picture>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-AdarshShukla&theme=dark" height="180em" alt="GitHub Streak Stats" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-AdarshShukla&theme=dark" 
+       alt="GitHub Streak Stats" 
+       width="350" 
+       style="max-width: 100%; border-radius: 10px;">
 </div>
 
 ---
