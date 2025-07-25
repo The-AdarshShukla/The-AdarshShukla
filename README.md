@@ -352,43 +352,21 @@
 </p>
 
 ---
-## 🎯 2025 Goals
+##  2025 Goals
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="25%">
-        <img src="https://img.shields.io/badge/Publish_Android_Library-61DAFB?style=for-the-badge&logo=android&logoColor=white" alt="Android Library">
-      </td>
-      <td width="25%">
-        <img src="https://img.shields.io/badge/1k%2B_App_Downloads-34E27A?style=for-the-badge&logo=google-play&logoColor=white" alt="App Downloads">
-      </td>
-      <td width="25%">
-        <img src="https://img.shields.io/badge/5%2B_OSS_Contributions-2496ED?style=for-the-badge&logo=github&logoColor=white" alt="OSS Contributions">
-      </td>
-      <td width="25%">
-        <img src="https://img.shields.io/badge/Jetpack_Compose_Mastery-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose">
-      </td>
-    </tr>
-  </table>
-</div>
+<div align="center"> <table> <tr> <td align="center" width="25%"> <img src="https://img.shields.io/badge/✓%20Publish%20an%20Android%20App-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android App Goal" /> <br><small>Launch at least one app</small> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/✓%201K+%20App%20Downloads-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="App Downloads Goal" /> <br><small>Cross 1000 downloads</small> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/✓%205+%20Open%20Source%20PRs-24292F?style=for-the-badge&logo=github&logoColor=white" alt="OSS Contributions Goal" /> <br><small>Contribute to OSS</small> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/✓%20Master%20Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose Goal" /> <br><small>Build complex UIs</small> </td> </tr> </table> </div>
+
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://github.com/The-AdarshShukla/The-AdarshShukla/blob/output/snake.svg" alt="Contribution Snake" />
-</div>
----
+<h1 align="center">
 
-<div align="center">
-  <h3>Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/The-AdarshShukla/count.svg" alt="Visitor Counter" />
-  
-  <p>Thanks for visiting! ❤️</p>
-  
-</div>
+_Thanks for visiting my profile! ❤️_
+
+</h1>
+
+
 
 <!-- 
   End of README.md
