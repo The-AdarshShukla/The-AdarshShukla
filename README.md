@@ -241,17 +241,18 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; padding: 1rem;">
 
-  <!-- GitHub Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=default&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
-         alt="GitHub Stats" 
-         width="350" 
-         style="max-width: 100%; border-radius: 10px;">
-  </picture>
+ <!-- GitHub Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=1800">
+  <img src="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" 
+       alt="GitHub Stats" 
+       width="350" 
+       style="max-width: 100%; border-radius: 10px;">
+</picture>
+
 
   <!-- Top Languages -->
   <picture>
