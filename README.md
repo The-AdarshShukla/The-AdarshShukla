@@ -77,10 +77,153 @@
   <h2 style="color: #ffffff; font-family: sans-serif; margin-bottom: 1rem;">
     🚀 Tech Stack
   </h2>
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,firebase,py,html,css,js,git,github,androidstudio,vscode,figma,linux" alt="Tech Stack" />
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+  <a href="https://chat.openai.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/48/chatgpt.png" alt="ChatGPT" width="40" height="40"/>
   </a>
+</td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.eclipse.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="eclipse" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/>
+      </a>
+    </td>
+   <td align="center" style="padding: 10px;">
+  <a href="https://wordpress.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40" />
+  </a>
+</td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="word" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://drive.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="google drive" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://telegram.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.canva.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.blender.org" target="_blank" rel="noreferrer">
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="androidstudio" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
+
+
+
 
 
 
@@ -235,9 +378,8 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/The-AdarshShukla/The-AdarshShukla/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github.com/The-AdarshShukla/The-AdarshShukla/blob/output/snake.svg" alt="Contribution Snake" />
 </div>
-
 ---
 
 <div align="center">
