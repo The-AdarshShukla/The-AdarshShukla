@@ -195,27 +195,26 @@
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="mailto:adarshpoetry@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="40" style="margin: 10px;" />
   </a>
   <a href="https://linkedin.com/in/adarsh-shukla-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40" style="margin: 10px;" />
   </a>
   <a href="https://twitter.com/adarshpoet">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" style="margin: 10px;" />
   </a>
   <a href="https://adarshshukla2005.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="40" style="margin: 10px;" />
   </a>
   <a href="https://medium.com/@adarshpoetry">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" width="40" style="margin: 10px;" />
   </a>
   <a href="https://dev.to/adarshshukla">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969051.png" alt="Dev.to" width="40" style="margin: 10px;" />
   </a>
-</div>
-
+</p
 ---
 
 ## 🎯 2025 Goals
