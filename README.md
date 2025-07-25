@@ -193,30 +193,21 @@
 
 ---
 
-## 🤝 Connect With Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:adarshpoetry@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://linkedin.com/in/adarsh-shukla-dev">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://twitter.com/adarshpoet">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://adarshshukla2005.github.io">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://medium.com/@adarshpoetry">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://dev.to/adarshshukla">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969051.png" alt="Dev.to" width="40" style="margin: 10px;" />
-  </a>
-</p
----
+      <a href = "https://cdn-icons-png.flaticon.com/512/6422/6422202.png" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitadeb" height="30" width="40" /></a>     
+<td align="center" style="padding: 2px;">       
+      <a href ="https://linkedin.com/in/arpitadeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitadeb" height="30" width="40" /></a>    
+  <td align="center" style="padding: 2px;">   
+      <a href="https://stackoverflow.com/users/users/10008537/arpita-deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/10008537/arpita-deb" height="30" width="40" /></a>    
+      <a href="https://www.leetcode.com/arpitadeb1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpitadeb1990" height="30" width="40" /></a>    
+      <a href="https://t.me/yourusername" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="30" width="40" />
+</a>
 
+</p>
+
+---
 ## 🎯 2025 Goals
 
 <div align="center">
