@@ -201,9 +201,10 @@
   <td align="center" style="padding: 2px;">   
       <a href="https://stackoverflow.com/users/users/10008537/arpita-deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/10008537/arpita-deb" height="30" width="40" /></a>    
       <a href="https://www.leetcode.com/arpitadeb1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpitadeb1990" height="30" width="40" /></a>    
-      <a href="https://t.me/yourusername" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="30" width="40" />
+      <a href="https://t.me/The_Adarshshukla" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30" />
 </a>
+
 
 </p>
 
