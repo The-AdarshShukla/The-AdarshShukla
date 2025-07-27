@@ -12,9 +12,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4A76F7&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Adarsh+Shukla;Android+Developer;Open+Source+Contributor;Tech+%26+Poetry+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=700&size=40&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Adarsh+Shukla;Android+Developer;Open+Source+Contributor;Lover+of+Poetry+%26+Tech)](https://git.io/typing-svg)
 
 </div>
+
 
 
 ---
