@@ -255,7 +255,7 @@
   </picture>
 
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-AdarshShukla&theme=dark" 
+  <img src="https://streak-stats.demolab.com?user=The-AdarshShukla&theme=dark" 
        alt="GitHub Streak Stats" 
        width="350" 
        style="max-width: 100%; border-radius: 10px;">
@@ -297,11 +297,15 @@
 
 ---
 
-## 📈 Contribution Graph
-
+### 📊 GitHub Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+
+
+[![Adarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/The-AdarshShukla)
+
 </div>
+
+
 
 ---
 
