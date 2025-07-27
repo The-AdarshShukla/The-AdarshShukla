@@ -12,21 +12,35 @@
 
 <div align="center">
 
-  <h1>👋 Hi, I'm <span style="color:#007ACC">Adarsh Shukla</span></h1>
-  
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Adarsh+Shukla;Android+Developer+%F0%9F%9A%80;Published+Writer+%E2%9C%8D%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5;Poetry+%2B+Code+Lover+%F0%9F%93%9A%2B%F0%9F%92%BB" alt="Typing SVG" />
+  </h1>
+
   <p>
-    🚀 <strong>Android Developer</strong> &nbsp;|&nbsp;
-    ✍️ <strong>Published Writer</strong> &nbsp;|&nbsp;
-    🔥 <strong>Open Source Contributor</strong>
+    <strong>🚀 Android Developer</strong> &nbsp;|&nbsp;
+    <strong>✍️ Published Writer</strong> &nbsp;|&nbsp;
+    <strong>🔥 Open Source Contributor</strong>
   </p>
-  
+
   <p>
     💡 Passionate about <strong>Mobile Accessibility</strong> &amp; <strong>AI Integration</strong> <br/>
     📚 Sharing thoughts through <strong>Poetry & Code</strong> <br/>
-    🤝 Always open for meaningful collaborations
+    🤝 Open to meaningful collaborations & impactful projects
+  </p>
+
+  <br/>
+
+  <p>
+    <a href="https://github.com/The-AdarshShukla" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-The--AdarshShukla-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/the-adarshshukla/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
   </p>
 
 </div>
+
 
 
 
