@@ -28,13 +28,6 @@
 
   <br><br>
 
-  <a href="https://github.com/The-AdarshShukla">
-    <img src="https://img.shields.io/badge/GitHub-The--AdarshShukla-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/the-adarshshukla/">
-    <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
 </div>
 
 
