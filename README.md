@@ -10,9 +10,6 @@
   - All code contained within this single code block
 -->
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
 
 
@@ -298,11 +295,9 @@
 
 ### 📊 GitHub Contribution Graph
 <div align="center">
-
-
-[![Adarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/The-AdarshShukla)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+
 
 
 
