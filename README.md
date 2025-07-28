@@ -11,10 +11,9 @@
 -->
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&weight=600&size=36&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Adarsh+Shukla;Android+Dev+%7C+Poet+%7C+Coder;Open+Source+Enthusiast;Let's+Build+Something+Meaningful)](https://git.io/typing-svg)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+
 
 
 
