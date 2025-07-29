@@ -235,7 +235,7 @@
           srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800">
   <source media="(prefers-color-scheme: light)" 
           srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=1800">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" 
+  <img src="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=200" 
        alt="GitHub Stats" 
        width="350" 
        style="max-width: 100%; border-radius: 10px;">
@@ -256,7 +256,7 @@
 
   <!-- GitHub Streak Stats -->
  <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=The-AdarshShukla&theme=dark" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=The-AdarshShukla&theme=dark&cache_seconds=1800" 
   alt="GitHub Streak Stats" 
   width="350" 
   style="max-width: 100%; border-radius: 10px;">
@@ -301,7 +301,7 @@
 
 ### 📊 GitHub Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=react-dark&area=true&hide_border=true&cache_seconds=200" alt="Contribution Graph" />
 </div>
 
 
