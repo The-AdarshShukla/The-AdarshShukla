@@ -1,7 +1,7 @@
 <!-- 
   Advanced GitHub Profile README.md
   Features:
-  - Dynamic GitHub stats fetching
+  - Dynamic GitHub stats fetching 
   - Animated SVG snake game
   - Interactive badges
   - Project cards with real data
