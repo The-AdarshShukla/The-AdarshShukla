@@ -22,10 +22,10 @@
 ---
 <p align="center">
   <span>
-    <img src="https://komarev.com/ghpvc/?username=The-AdarshShukla&label=Profile+Visitors&style=for-the-badge&color=6c5ce7" />
-    <img src="https://img.shields.io/github/followers/The-AdarshShukla?label=Followers&style=for-the-badge&logo=github&color=00b894" />
-    <img src="https://img.shields.io/github/stars/The-AdarshShukla?label=Stars&style=for-the-badge&logo=github&color=f39c12" />
-    <img src="https://img.shields.io/badge/Contributions-Active-blueviolet?style=for-the-badge&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=The-AdarshShukla&label=Profile+Visitors&style=for-the-badge&color=6c5ce7&cache_seconds=200" />
+    <img src="https://img.shields.io/github/followers/The-AdarshShukla?label=Followers&style=for-the-badge&logo=github&color=00b894&cache_seconds=200" />
+    <img src="https://img.shields.io/github/stars/The-AdarshShukla?label=Stars&style=for-the-badge&logo=github&color=f39c12&cache_seconds=200" />
+    <img src="https://img.shields.io/badge/Contributions-Active-blueviolet?style=for-the-badge&logo=github&cache_seconds=200" />
   </span>
 </p>
 
@@ -232,9 +232,9 @@
  <!-- GitHub Stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800">
+          srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=200">
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=1800">
+          srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=200">
   <img src="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=200" 
        alt="GitHub Stats" 
        width="350" 
@@ -245,10 +245,10 @@
   <!-- Top Languages -->
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=dark">
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=dark&cache_seconds=200">
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=dark" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=default&cache_seconds=200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=dark&cache_seconds=200" 
          alt="Top Languages" 
          width="300" 
          style="max-width: 100%; border-radius: 10px;">
@@ -256,7 +256,7 @@
 
   <!-- GitHub Streak Stats -->
  <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=The-AdarshShukla&theme=dark&cache_seconds=1800" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=The-AdarshShukla&theme=dark&cache_seconds=200" 
   alt="GitHub Streak Stats" 
   width="350" 
   style="max-width: 100%; border-radius: 10px;">
@@ -268,7 +268,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-AdarshShukla&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=The-AdarshShukla&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&cache_seconds=200" alt="GitHub Trophies" />
 </div>
 
 ---
