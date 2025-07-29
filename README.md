@@ -256,7 +256,7 @@
 
   <!-- GitHub Streak Stats -->
  <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=The-AdarshShukla&theme=dark" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=The-AdarshShukla&theme=dark&area=true&hide_border=true" 
   alt="GitHub Streak Stats" 
   width="350" 
   style="max-width: 100%; border-radius: 10px;">
