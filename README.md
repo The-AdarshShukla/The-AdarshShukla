@@ -254,12 +254,13 @@
          style="max-width: 100%; border-radius: 10px;">
   </picture>
 
-  <!-- GitHub Streak Stats -->
- <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=The-AdarshShukla&theme=dark&cache_seconds="200" 
-  alt="GitHub Streak Stats" 
-  width="350" 
-  style="max-width: 100%; border-radius: 10px;">
+ <!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats - Updated Version -->
+<img 
+  src="https://streak-stats.demolab.com?user=The-AdarshShukla&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D"
+  alt="GitHub Streak Stats"
+  width="350"
+  style="max-width: 100%;">
 
 </div>
 
