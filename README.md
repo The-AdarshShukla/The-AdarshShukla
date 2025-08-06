@@ -256,11 +256,13 @@
 
  <!-- GitHub Streak Stats -->
 <!-- GitHub Streak Stats - Updated Version -->
-<img 
+<!--<img 
   src="https://streak-stats.demolab.com?user=The-AdarshShukla&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D"
   alt="GitHub Streak Stats"
   width="350"
-  style="max-width: 100%;">
+  style="max-width: 100%;">-->
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-AdarshShukla)
 
 </div>
 
