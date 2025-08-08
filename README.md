@@ -304,7 +304,7 @@
 
 ### 📊 GitHub Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=react-dark&area=true&hide_border=true&cache_seconds=100" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=react-light&area=true&hide_border=true&cache_seconds=100" alt="Contribution Graph" />
 </div>
 
 
