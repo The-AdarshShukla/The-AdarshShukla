@@ -250,7 +250,7 @@
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=default&cache_seconds=200">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=dark&cache_seconds=200" 
          alt="Top Languages" 
-         width="300" 
+         width="350" 
          style="max-width: 100%; border-radius: 10px;">
   </picture>
 
