@@ -181,10 +181,11 @@
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://www.blender.org" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-      </a>
-    </td>
+  <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+         alt="LeetCode" width="40" height="40"/>
+  </a>
+</td>
     <td align="center" style="padding: 10px;">
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/>
