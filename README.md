@@ -182,8 +182,8 @@
     </td>
     <td align="center" style="padding: 10px;">
   <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
-         alt="LeetCode" width="40" height="40"/>
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" 
+         alt="LeetCode" width="50" height="50" style="border-radius: 10px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);"/>
   </a>
 </td>
     <td align="center" style="padding: 10px;">
