@@ -1,382 +1,276 @@
-<!-- 
-  Advanced GitHub Profile README.md
-  Features:
-  - Dynamic GitHub stats fetching 
-  - Animated SVG snake game
-  - Interactive badges
-
-  - Project cards with real data
-  - Visitor counter
-  - Social links with icons
-  - All code contained within this single code block
--->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&weight=600&size=36&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Adarsh+Shukla;Android+Dev+%7C+Poet+%7C+Coder;Open+Source+Enthusiast;Let's+Build+Something+Meaningful)](https://git.io/typing-svg)
+<!-- Animated Header with Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=36&duration=4000&pause=1000&color=7E57C2&center=true&vCenter=true&width=800&height=60&lines=👋+Hi+I'm+Adarsh+Shukla;Android+Dev+%7C+Poet+%7C+Coder;Open+Source+Enthusiast;Let's+Build+Something+Meaningful)](https://git.io/typing-svg)
+
+<!-- Animated Gradient Divider -->
+<img src="https://github.com/The-AdarshShukla/The-AdarshShukla/blob/main/images/border.png?raw=true" alt="divider" width="100%">
 
 </div>
 
-
-
-
----
-<p align="center">
-  <span>
-    <img src="https://komarev.com/ghpvc/?username=The-AdarshShukla&label=Profile+Visitors&style=for-the-badge&color=6c5ce7&cache_seconds=200" />
-    <img src="https://img.shields.io/github/followers/The-AdarshShukla?label=Followers&style=for-the-badge&logo=github&color=00b894&cache_seconds=200" />
-    <img src="https://img.shields.io/github/stars/The-AdarshShukla?label=Stars&style=for-the-badge&logo=github&color=f39c12&cache_seconds=200" />
-    <img src="https://img.shields.io/badge/Contributions-Active-blueviolet?style=for-the-badge&logo=github&cache_seconds=200" />
-  </span>
-</p>
-
-
-
-
-
----
-
-## 🔥 Current Focus
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <ul>
-          <li>🔭 Building <b>AI-powered Android Accessibility Tools</b></li>
-          <li>🌱 Mastering <b>Microsoft office</b></li>
-          <li>👯 Looking to collaborate on <b>Open Source Android Projects</b></li>
-        </ul>
-      </td>
-      <td width="50%">
-        <ul>
-          <li>💬 Ask me about <b>java, html,css , or Hindi Poetry</b></li>
-          <li>📫 How to reach me: <b>shuklaadarsh319@gmail.com</b></li>
-          <li>⚡ Fun fact: <b>I write code by day and poetry by night</b></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<!-- Profile Metrics with Glassmorphism Effect -->
+<div align="center" style="background: rgba(20, 20, 40, 0.6); backdrop-filter: blur(10px); padding: 1rem; border-radius: 20px; margin: 1rem 0; border: 1px solid rgba(255, 255, 255, 0.1);">
+  <p align="center">
+    <span>
+      <img src="https://komarev.com/ghpvc/?username=The-AdarshShukla&label=Profile+Visitors&style=flat&color=7e57c2&cache_seconds=200" />
+      <img src="https://img.shields.io/github/followers/The-AdarshShukla?label=Followers&style=flat&logo=github&color=00e5ff&cache_seconds=200" />
+      <img src="https://img.shields.io/github/stars/The-AdarshShukla?label=Stars&style=flat&logo=github&color=ffab00&cache_seconds=200" />
+      <img src="https://img.shields.io/badge/Contributions-Active-8e24aa?style=flat&logo=github&cache_seconds=200" />
+    </span>
+  </p>
 </div>
 
----
-
-
-<div align="center" style="background: linear-gradient(to right, #1f1f1f, #2a2a2a); padding: 1rem 1.5rem; border-radius: 12px;">
-  <h2 style="color: #ffffff; font-family: sans-serif; margin-bottom: 1rem;">
-    🚀 Tech Stack
+<!-- About Me Section with Glassmorphism Cards -->
+<div align="center">
+  <h2 style="color: #bb86fc; font-family: 'Segoe UI', sans-serif; margin-bottom: 1.5rem;">
+    🚀 About Me
   </h2>
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-  <a href="https://chat.openai.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/chatgpt.png" alt="ChatGPT" width="40" height="40"/>
-  </a>
-</td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/>
-      </a>
-    </td>
-   <td align="center" style="padding: 10px;">
-  <a href="https://www.eclipse.org" target="_blank" rel="noreferrer">
-    <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" 
-         alt="Eclipse IDE" 
-         width="40" 
-         height="40"
-         style="border-radius: 50%; box-shadow: 0 0 5px rgba(104, 33, 122, 0.5);">
-  </a>
-</td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/>
-      </a>
-    </td>
-   <td align="center" style="padding: 10px;">
-  <a href="https://wordpress.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40" />
-  </a>
-</td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="word" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://drive.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="google drive" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://telegram.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.canva.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-  <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
-    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" 
-         alt="LeetCode" width="50" height="50" style="border-radius: 10px; box-shadow: 0px 2px 8px rgba(0,0,0,0.2);"/>
-  </a>
-</td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
-         alt="GitHub" 
-         width="40" 
-         height="40"
-         style="border-radius: 50%;">
-  </a>
-</td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="androidstudio" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-bottom: 2rem;">
+    <!-- Card 1 -->
+    <div style="background: rgba(30, 30, 60, 0.6); backdrop-filter: blur(10px); padding: 1.5rem; border-radius: 16px; border: 1px solid rgba(126, 87, 194, 0.3); width: 280px; text-align: left;">
+      <h3 style="color: #7e57c2; margin-top: 0;">Current Focus</h3>
+      <ul style="color: #e0e0e0; padding-left: 1.2rem;">
+        <li>🔭 Building <b>AI-powered Android Accessibility Tools</b></li>
+        <li>🌱 Mastering <b>Microsoft Office Suite</b></li>
+        <li>👯 Looking to collaborate on <b>Open Source Android Projects</b></li>
+      </ul>
+    </div>
+    <!-- Card 2 -->
+    <div style="background: rgba(30, 30, 60, 0.6); backdrop-filter: blur(10px); padding: 1.5rem; border-radius: 16px; border: 1px solid rgba(126, 87, 194, 0.3); width: 280px; text-align: left;">
+      <h3 style="color: #7e57c2; margin-top: 0;">Let's Connect</h3>
+      <ul style="color: #e0e0e0; padding-left: 1.2rem;">
+        <li>💬 Ask me about <b>Java, Android Dev, or Hindi Poetry</b></li>
+        <li>📫 Reach me at: <b>shuklaadarsh319@gmail.com</b></li>
+        <li>⚡ Fun fact: <b>I write code by day and poetry by night</b></li>
+      </ul>
+    </div>
+  </div>
 </div>
 
+<!-- Tech Stack Section with Interactive Hover Effects -->
+<div align="center" style="background: rgba(20, 20, 40, 0.6); backdrop-filter: blur(10px); padding: 2rem; border-radius: 20px; margin: 2rem 0; border: 1px solid rgba(255, 255, 255, 0.1);">
+  <h2 style="color: #bb86fc; font-family: 'Segoe UI', sans-serif; margin-bottom: 2rem;">
+    🛠️ Tech Stack
+  </h2>
+  
+  <!-- Tech Stack Categories -->
+  <h3 align="left" style="color: #7e57c2; text-align: left; margin-left: 1rem;">Programming Languages & Frameworks</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin-bottom: 1.5rem;">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  </div>
+  
+  <h3 align="left" style="color: #7e57c2; text-align: left; margin-left: 1rem;">Tools & Platforms</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin-bottom: 1.5rem;">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+  </div>
+  
+  <h3 align="left" style="color: #7e57c2; text-align: left; margin-left: 1rem;">Microsoft Office</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin-bottom: 1.5rem;">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
+    <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint">
+  </div>
+  
+  <h3 align="left" style="color: #7e57c2; text-align: left; margin-left: 1rem;">Other Skills</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem;">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  </div>
+</div>
 
-
-
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; padding: 1rem;">
-
- <!-- GitHub Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=200">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=200">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=200" 
-       alt="GitHub Stats" 
-       width="350" 
-       style="max-width: 100%; border-radius: 10px;">
-</picture>
-
-
-  <!-- Top Languages -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=dark&cache_seconds=200">
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=default&cache_seconds=200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=dark&cache_seconds=200" 
+<!-- GitHub Stats Section with Modern Layout -->
+<div align="center">
+  <h2 style="color: #bb86fc; font-family: 'Segoe UI', sans-serif; margin-bottom: 1.5rem;">
+    📊 GitHub Analytics
+  </h2>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-bottom: 2rem;">
+    <!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=The-AdarshShukla&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&cache_seconds=200&bg_color=0d1117&title_color=7e57c2&text_color=ffffff&icon_color=bb86fc&border_color=1f1f2e" 
+         alt="GitHub Stats" 
+         width="400" 
+         style="border-radius: 12px; box-shadow: 0 4px 20px rgba(126, 87, 194, 0.3);">
+    <!-- Top Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AdarshShukla&layout=compact&theme=nightowl&cache_seconds=200&bg_color=0d1117&title_color=7e57c2&text_color=ffffff&border_color=1f1f2e" 
          alt="Top Languages" 
-         width="310" 
-         style="max-width: 100%; border-radius: 10px;">
-  </picture>
-
- <!-- GitHub Streak Stats -->
-<!-- GitHub Streak Stats - Updated Version -->
-<img 
-  src="https://streak-stats.demolab.com?user=The-AdarshShukla&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&cache_seconds=200"
-  alt="GitHub Streak Stats"
-  width="350"
-  style="max-width: 100%;">
-
-
-
+         width="350" 
+         style="border-radius: 12px; box-shadow: 0 4px 20px rgba(126, 87, 194, 0.3);">
+  </div>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=The-AdarshShukla&theme=nightowl&border_radius=12&date_format=j%20M%5B%20Y%5D&background=0D1117&border=1F1F2E&ring=7E57C2&fire=7E57C2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BB86FC&sideLabels=BB86FC&dates=9E9E9E&cache_seconds=200" 
+       alt="GitHub Streak Stats"
+       style="border-radius: 12px; box-shadow: 0 4px 20px rgba(126, 87, 194, 0.3); margin-bottom: 2rem;">
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=The-AdarshShukla&theme=discord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&cache_seconds=200" 
+       alt="GitHub Trophies"
+       style="border-radius: 12px; box-shadow: 0 4px 20px rgba(126, 87, 194, 0.3); margin-bottom: 2rem;">
 </div>
 
----
+<!-- GitHub Activity Graph -->
+<div align="center" style="margin-bottom: 2rem;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=react-dark&bg_color=0d1117&color=bb86fc&line=7e57c2&point=03dac6&area=true&hide_border=true&radius=8&cache_seconds=100" 
+       alt="Activity Graph" 
+       style="border-radius: 12px; box-shadow: 0 4px 20px rgba(126, 87, 194, 0.3);">
+</div>
 
-## 🏆 GitHub Achievements
+<!-- Featured Projects Section with Cards -->
+<div align="center" style="background: rgba(20, 20, 40, 0.6); backdrop-filter: blur(10px); padding: 2rem; border-radius: 20px; margin: 2rem 0; border: 1px solid rgba(255, 255, 255, 0.1);">
+  <h2 style="color: #bb86fc; font-family: 'Segoe UI', sans-serif; margin-bottom: 2rem;">
+    🌟 Featured Projects
+  </h2>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem;">
+    <!-- Project 1 -->
+    <div style="background: rgba(30, 30, 60, 0.7); padding: 1.5rem; border-radius: 16px; border: 1px solid rgba(126, 87, 194, 0.3); width: 300px; text-align: left;">
+      <h3 style="color: #7e57c2; margin-top: 0;">Smart Adarsh App</h3>
+      <p style="color: #e0e0e0;">AI-powered Android accessibility tool for visually impaired users.</p>
+      <div style="display: flex; gap: 0.5rem; margin-top: 1rem;">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=ai&logoColor=white" alt="AI">
+      </div>
+      <a href="https://github.com/The-AdarshShukla/Smart-Adarsh-App" style="text-decoration: none;">
+        <div style="background: linear-gradient(45deg, #7e57c2, #2196f3); padding: 0.5rem 1rem; border-radius: 8px; margin-top: 1rem; text-align: center; color: white; font-weight: bold;">
+          View Project
+        </div>
+      </a>
+    </div>
+    <!-- Project 2 -->
+    <div style="background: rgba(30, 30, 60, 0.7); padding: 1.5rem; border-radius: 16px; border: 1px solid rgba(126, 87, 194, 0.3); width: 300px; text-align: left;">
+      <h3 style="color: #7e57c2; margin-top: 0;">Poetry Hub</h3>
+      <p style="color: #e0e0e0;">A collection of Hindi poetry and creative writing works.</p>
+      <div style="display: flex; gap: 0.5rem; margin-top: 1rem;">
+        <img src="https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Web">
+        <img src="https://img.shields.io/badge/Creative-FF6D00?style=flat&logo=creative-commons&logoColor=white" alt="Creative">
+      </div>
+      <a href="https://github.com/The-AdarshShukla/mobileapp" style="text-decoration: none;">
+        <div style="background: linear-gradient(45deg, #7e57c2, #2196f3); padding: 0.5rem 1rem; border-radius: 8px; margin-top: 1rem; text-align: center; color: white; font-weight: bold;">
+          View Project
+        </div>
+      </a>
+    </div>
+    <!-- Project 3 -->
+    <div style="background: rgba(30, 30, 60, 0.7); padding: 1.5rem; border-radius: 16px; border: 1px solid rgba(126, 87, 194, 0.3); width: 300px; text-align: left;">
+      <h3 style="color: #7e57c2; margin-top: 0;">QuizMaster Pro</h3>
+      <p style="color: #e0e0e0;">Interactive quiz application with multiple categories and scoring system.</p>
+      <div style="display: flex; gap: 0.5rem; margin-top: 1rem;">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Quiz-4CAF50?style=flat&logo=quizlet&logoColor=white" alt="Quiz">
+      </div>
+      <a href="https://github.com/The-AdarshShukla/quiz-app" style="text-decoration: none;">
+        <div style="background: linear-gradient(45deg, #7e57c2, #2196f3); padding: 0.5rem 1rem; border-radius: 8px; margin-top: 1rem; text-align: center; color: white; font-weight: bold;">
+          View Project
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
 
+<!-- Writing Portfolio Section -->
+<div align="center" style="margin-bottom: 2rem;">
+  <h2 style="color: #bb86fc; font-family: 'Segoe UI', sans-serif; margin-bottom: 1.5rem;">
+    ✍️ Writing Portfolio
+  </h2>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+    <a href="https://The-AdarshShukla.github.io/poetry" style="text-decoration: none;">
+      <div style="background: linear-gradient(45deg, #7e57c2, #5e35b1); padding: 1rem 2rem; border-radius: 12px; color: white; font-weight: bold; box-shadow: 0 4px 12px rgba(126, 87, 194, 0.4);">
+        Hindi Poetry
+      </div>
+    </a>
+    <a href="https://The-AdarshShukla.github.io/stories" style="text-decoration: none;">
+      <div style="background: linear-gradient(45deg, #26a69a, #00796b); padding: 1rem 2rem; border-radius: 12px; color: white; font-weight: bold; box-shadow: 0 4px 12px rgba(0, 121, 107, 0.4);">
+        Short Stories
+      </div>
+    </a>
+    <a href="https://The-AdarshShukla.github.io/blog" style="text-decoration: none;">
+      <div style="background: linear-gradient(45deg, #42a5f5, #1976d2); padding: 1rem 2rem; border-radius: 12px; color: white; font-weight: bold; box-shadow: 0 4px 12px rgba(25, 118, 210, 0.4);">
+        Technical Blog
+      </div>
+    </a>
+  </div>
+</div>
+
+<!-- 2025 Goals Section -->
+<div align="center" style="background: rgba(20, 20, 40, 0.6); backdrop-filter: blur(10px); padding: 2rem; border-radius: 20px; margin: 2rem 0; border: 1px solid rgba(255, 255, 255, 0.1);">
+  <h2 style="color: #bb86fc; font-family: 'Segoe UI', sans-serif; margin-bottom: 1.5rem;">
+    🎯 2025 Goals
+  </h2>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+    <div style="background: rgba(30, 30, 60, 0.7); padding: 1rem; border-radius: 12px; border: 1px solid rgba(126, 87, 194, 0.3); width: 200px; text-align: center;">
+      <div style="font-size: 2rem; color: #7e57c2;">📱</div>
+      <h4 style="color: #bb86fc; margin: 0.5rem 0;">Publish Android App</h4>
+      <p style="color: #e0e0e0; font-size: 0.9rem; margin: 0;">Launch at least one app</p>
+    </div>
+    <div style="background: rgba(30, 30, 60, 0.7); padding: 1rem; border-radius: 12px; border: 1px solid rgba(126, 87, 194, 0.3); width: 200px; text-align: center;">
+      <div style="font-size: 2rem; color: #7e57c2;">⬇️</div>
+      <h4 style="color: #bb86fc; margin: 0.5rem 0;">1K+ Downloads</h4>
+      <p style="color: #e0e0e0; font-size: 0.9rem; margin: 0;">Cross 1000 downloads</p>
+    </div>
+    <div style="background: rgba(30, 30, 60, 0.7); padding: 1rem; border-radius: 12px; border: 1px solid rgba(126, 87, 194, 0.3); width: 200px; text-align: center;">
+      <div style="font-size: 2rem; color: #7e57c2;">🤝</div>
+      <h4 style="color: #bb86fc; margin: 0.5rem 0;">5+ OSS PRs</h4>
+      <p style="color: #e0e0e0; font-size: 0.9rem; margin: 0;">Contribute to OSS</p>
+    </div>
+    <div style="background: rgba(30, 30, 60, 0.7); padding: 1rem; border-radius: 12px; border: 1px solid rgba(126, 87, 194, 0.3); width: 200px; text-align: center;">
+      <div style="font-size: 2rem; color: #7e57c2;">🎨</div>
+      <h4 style="color: #bb86fc; margin: 0.5rem 0;">Master Jetpack</h4>
+      <p style="color: #e0e0e0; font-size: 0.9rem; margin: 0;">Build complex UIs</p>
+    </div>
+  </div>
+</div>
+
+<!-- Connect Section with Animated Icons -->
+<div align="center" style="margin-bottom: 2rem;">
+  <h2 style="color: #bb86fc; font-family: 'Segoe UI', sans-serif; margin-bottom: 1.5rem;">
+    📞 Let's Connect
+  </h2>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+    <a href="https://twitter.com/the_adarshshukl" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://github.com/The-AdarshShukla" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://instagram.com/The_AdarshShukla" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://linkedin.com/in/theadarshshukla" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:shuklaadarsh319@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </div>
+</div>
+
+<!-- Snake Animation Footer -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-AdarshShukla&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&cache_seconds=200" alt="GitHub Trophies" />
+  <img src="https://github.com/The-AdarshShukla/The-AdarshShukla/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <a href="https://github.com/The-AdarshShukla/Smart-Adarsh-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-AdarshShukla&repo=Smart-Adarsh-App&theme=dark" alt="Blind Assistant App">
-        </a>
-      </td>
-      <td width="33%">
-        <a href="https://github.com/The-AdarshShukla/mobileapp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-AdarshShukla&repo=mobileapp&theme=dark" alt="Poetry Hub">
-        </a>
-      </td>
-      <td width="33%">
-        <a href="https://github.com/The-AdarshShukla/quiz-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-AdarshShukla&repo=quiz-app&theme=dark" alt="QuizMaster Pro">
-        </a>
-      </td>
-    </tr>
-  </table>
+<!-- Footer -->
+<div align="center" style="margin-top: 2rem;">
+  <p style="color: #bb86fc; font-size: 1.1rem;">
+    <b>Thanks for visiting my profile! ❤️</b>
+  </p>
+  <p style="color: #9e9e9e;">
+    <i>"Code is poetry, and poetry is code for the soul."</i>
+  </p>
 </div>
-
----
-
-### 📊 GitHub Contribution Graph
-<div align="center">
-  <img 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=The-AdarshShukla&theme=github-compact&custom_title=🔥%20Adarsh's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true&area_color=58a6ff&area_opacity=0.15&radius=8&cache_seconds=100" 
-       alt="Adarsh's Contribution Graph" 
-  />
-</div>
-
-
-
-
-
----
-
-## ✍️ Writing Portfolio
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://The-AdarshShukla.github.io/poetry">
-          <img src="https://img.shields.io/badge/Hindi_Poetry-FF6B6B?style=for-the-badge&logo=bookstack&logoColor=white" alt="Hindi Poetry">
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://The-AdarshShukla.github.io/stories">
-          <img src="https://img.shields.io/badge/Short_Stories-4ECDC4?style=for-the-badge&logo=book&logoColor=white" alt="Short Stories">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://The-AdarshShukla.github.io/blog">
-          <img src="https://img.shields.io/badge/Technical_Blog-556270?style=for-the-badge&logo=hashnode&logoColor=white" alt="Technical Blog">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-      <a href = "https://twitter.com/@the_adarshshukl" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Adarsh shukla" height="30" width="50" /></a>                 
-     <a href="https://github.com/The-AdarshShukla" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Adarsh shukla GitHub" height="30" width="50" /></a>  
-      <a href="https://instagram.com/The_AdarshShukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Adarsh Shukla" height="30" width="50" /></a>  
-  <a href ="https://linkedin.com/in/theadarshshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adarsh shukla" height="30" width="50" /></a>
-    <a href ="https://linkedin.com/in/theadarshshukla" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Adarsh shukla" height="30" width="50" /></a>
-
-
-
-</p>
-
----
-##  2025 Goals
-
-<div align="center"> <table> <tr> <td align="center" width="25%"> <img src="https://img.shields.io/badge/✓%20Publish%20an%20Android%20App-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android App Goal" /> <br><small>Launch at least one app</small> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/✓%201K+%20App%20Downloads-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="App Downloads Goal" /> <br><small>Cross 1000 downloads</small> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/✓%205+%20Open%20Source%20PRs-24292F?style=for-the-badge&logo=github&logoColor=white" alt="OSS Contributions Goal" /> <br><small>Contribute to OSS</small> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/✓%20Master%20Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose Goal" /> <br><small>Build complex UIs</small> </td> </tr> </table> </div>
-
-
----
-
-
-<h1 align="center">
-
-_Thanks for visiting my profile! ❤️_
-
-</h1>
-
-
-<!-- 
-  End of README.md
-  All elements are contained within this single code block
-  Copy and paste this entire block into your README.md file
--->
