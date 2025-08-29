@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=36&duration=4000&pause=1000&color=7E57C2&center=true&vCenter=true&width=800&height=60&lines=👋+Hi+I'm+Adarsh+Shukla;Android+Dev+%7C+Poet+%7C+Coder;Open+Source+Enthusiast;Let's+Build+Something+Meaningful)](https://git.io/typing-svg)
 
 <!-- Animated Gradient Divider -->
-<img src="https://github.com/The-AdarshShukla/The-AdarshShukla/blob/main/images/border.png?raw=true" alt="divider" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 </div>
 
@@ -48,44 +48,92 @@
   </div>
 </div>
 
-<!-- Tech Stack Section with Interactive Hover Effects -->
+<!-- Tech Stack Section with Official Icons -->
 <div align="center" style="background: rgba(20, 20, 40, 0.6); backdrop-filter: blur(10px); padding: 2rem; border-radius: 20px; margin: 2rem 0; border: 1px solid rgba(255, 255, 255, 0.1);">
   <h2 style="color: #bb86fc; font-family: 'Segoe UI', sans-serif; margin-bottom: 2rem;">
     🛠️ Tech Stack
   </h2>
   
-  <!-- Tech Stack Categories -->
-  <h3 align="left" style="color: #7e57c2; text-align: left; margin-left: 1rem;">Programming Languages & Frameworks</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin-bottom: 1.5rem;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <!-- Programming Languages -->
+  <h3 align="left" style="color: #7e57c2; text-align: left; margin-left: 1rem;">Programming Languages</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-bottom: 2rem;">
+    <a href="https://www.java.com" target="_blank" title="Java">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+    </a>
+    <a href="https://www.python.org" target="_blank" title="Python">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+    </a>
   </div>
   
-  <h3 align="left" style="color: #7e57c2; text-align: left; margin-left: 1rem;">Tools & Platforms</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin-bottom: 1.5rem;">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+  <!-- Frameworks & Platforms -->
+  <h3 align="left" style="color: #7e57c2; text-align: left; margin-left: 1rem;">Frameworks & Platforms</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-bottom: 2rem;">
+    <a href="https://developer.android.com" target="_blank" title="Android">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" alt="Android" />
+    </a>
+    <a href="https://www.mysql.com" target="_blank" title="MySQL">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+    </a>
+    <a href="https://wordpress.org" target="_blank" title="WordPress">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50" height="50" alt="WordPress" />
+    </a>
   </div>
   
+  <!-- Tools & IDEs -->
+  <h3 align="left" style="color: #7e57c2; text-align: left; margin-left: 1rem;">Tools & IDEs</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-bottom: 2rem;">
+    <a href="https://github.com" target="_blank" title="GitHub">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+    </a>
+    <a href="https://developer.android.com/studio" target="_blank" title="Android Studio">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio" />
+    </a>
+    <a href="https://code.visualstudio.com" target="_blank" title="VS Code">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+    </a>
+    <a href="https://www.eclipse.org" target="_blank" title="Eclipse">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse" />
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ IDEA">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA" />
+    </a>
+  </div>
+  
+  <!-- Microsoft Office -->
   <h3 align="left" style="color: #7e57c2; text-align: left; margin-left: 1rem;">Microsoft Office</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin-bottom: 1.5rem;">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
-    <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-bottom: 2rem;">
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" title="Excel">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50" height="50" alt="Excel" />
+    </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" title="Word">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" width="50" height="50" alt="Word" />
+    </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" title="PowerPoint">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" width="50" height="50" alt="PowerPoint" />
+    </a>
   </div>
   
-  <h3 align="left" style="color: #7e57c2; text-align: left; margin-left: 1rem;">Other Skills</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem;">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <!-- Design & Other Tools -->
+  <h3 align="left" style="color: #7e57c2; text-align: left; margin-left: 1rem;">Design & Other Tools</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem;">
+    <a href="https://www.figma.com" target="_blank" title="Figma">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" />
+    </a>
+    <a href="https://www.canva.com" target="_blank" title="Canva">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" alt="Canva" />
+    </a>
+    <a href="https://leetcode.com" target="_blank" title="LeetCode">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50" alt="LeetCode" style="filter: invert(1);" />
+    </a>
+    <a href="https://cloud.google.com" target="_blank" title="Google Cloud">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" />
+    </a>
   </div>
 </div>
 
@@ -187,17 +235,17 @@
   </h2>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-    <a href="https://The-AdarshShukla.github.io/poetry" style="text-decoration: none;">
+    <a href="https://github.com/The-AdarshShukla/The-AdarshShukla.github.io/tree/main/poetry" style="text-decoration: none;">
       <div style="background: linear-gradient(45deg, #7e57c2, #5e35b1); padding: 1rem 2rem; border-radius: 12px; color: white; font-weight: bold; box-shadow: 0 4px 12px rgba(126, 87, 194, 0.4);">
         Hindi Poetry
       </div>
     </a>
-    <a href="https://The-AdarshShukla.github.io/stories" style="text-decoration: none;">
+    <a href="https://github.com/The-AdarshShukla/The-AdarshShukla.github.io/tree/main/stories" style="text-decoration: none;">
       <div style="background: linear-gradient(45deg, #26a69a, #00796b); padding: 1rem 2rem; border-radius: 12px; color: white; font-weight: bold; box-shadow: 0 4px 12px rgba(0, 121, 107, 0.4);">
         Short Stories
       </div>
     </a>
-    <a href="https://The-AdarshShukla.github.io/blog" style="text-decoration: none;">
+    <a href="https://github.com/The-AdarshShukla/The-AdarshShukla.github.io/tree/main/blog" style="text-decoration: none;">
       <div style="background: linear-gradient(45deg, #42a5f5, #1976d2); padding: 1rem 2rem; border-radius: 12px; color: white; font-weight: bold; box-shadow: 0 4px 12px rgba(25, 118, 210, 0.4);">
         Technical Blog
       </div>
@@ -262,7 +310,7 @@
 
 <!-- Snake Animation Footer -->
 <div align="center">
-  <img src="https://github.com/The-AdarshShukla/The-AdarshShukla/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
+  <img src="https://raw.githubusercontent.com/The-AdarshShukla/The-AdarshShukla/output/snake.svg" alt="Snake animation" width="100%">
 </div>
 
 <!-- Footer -->
